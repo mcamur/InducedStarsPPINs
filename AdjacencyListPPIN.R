@@ -1,6 +1,6 @@
 rm(list=ls())
 library(igraph)
-setwd("C:/Users/mcamu/OneDrive/Desktop/RCodes")
+setwd("...") #Set your working directory
 options(scipen=999)
 
 data = read.table("Staphylococcus.txt", sep="") 
