@@ -1,4 +1,4 @@
-# InducedStarsPPINs
+# Identification of essential proteins using induced stars in protein–protein interaction networks
 
 This repository contains the data files for the manuscript entitled "Identification of Essential Proteins Using Induced Stars in Protein–Protein Interaction Networks", by Chrysafis Vogiatzis and Mustafa C. Camur. The paper has been accepted at INFORMS Journal on Computing and can be accessed at:
 
